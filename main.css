@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background-color: beige;}
+#Wrapper {width: 900px; margin: -10px auto;padding: 10px; background-color:white;}
+
+#SuperWrapper {width: 1000px; height: 1200px; margin: 0px auto;background-color:white;}
+
+#Logo {float: left;margin-bottom: 30px;padding-top: 20px;}
+
+#Icon {float: right;margin-bottom: 30px;padding-top: 20px;}
+
+#navigasion {clear: both; word-spacing: 20px; border-top: solid black 2px; border-bottom: solid black 2px; margin-bottom: 20px; padding: 10px; font-size: 20px; font-family: helvetica Gotham, "Helvetica Neue"}
+
+#navigasion a:link{color: black}
+#navigasion a:visited {color:black}
+#navigasion a:hover {color: saddlebrown}
+#navigasion a {text-decoration: none;}
+
+#Kotak1 {float: left; width:680px;}
+#Kotak1 h1 {color: #f90;border-bottom: solid black 2px;}
+#Kotak img {border: solid black 1px; padding: 10px; margin: 10px 10px;}
+#kanan {float: right; width:180px;}
+
+#Kanan {float: right; width: 200px; margin-left: 40px; font-family: arial;}
+#Kanan h3 {margin-bottom: -15px; color:#f90;}
+
+#footer {text-align: center;}
+#hr {margin-top: 40px; border: none; border-top: 2px solid #333; width: 100%}
+
+#kotakgrey1  {border-top: solid red 10px; float:left; width: 250px; margin: 25px; background-color: lightgray;}
+#kotakgrey2  {border-top: solid blue 10px; float:left; width: 250px; margin: 25px; background-color: lightgray;}
+#kotakgrey3  {border-top: solid green 10px; float:left; width: 250px; margin: 25px; background-color: lightgray;}
+
+
+
